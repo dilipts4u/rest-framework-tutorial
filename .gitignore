@@ -3,6 +3,8 @@
 *.pyc
 *~
 env
+Pipfile
+Pipfile.lock
 
 # Accept these files in the repository
 !.gitignore
